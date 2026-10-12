@@ -8,3 +8,7 @@ max_value  <- max(values)
 
 cat(sprintf("Mean: %.2f\n", mean_value))
 cat(sprintf("Max:  %d\n",   max_value))
+
+# calculate standard deviation
+
+sd(values)
